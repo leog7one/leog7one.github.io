@@ -107,7 +107,7 @@ So in a nutshell:
 
 2. Go to `/usr/local/etc/openssl/` , if there is a cert.pem file there, delete it, If there is no cert.pem there do nothing.
 
-3. Go to terminal and run `rvm osx-ssl-certs` update all
+3. Go to terminal and run `rvm osx-ssl-certs update all`
 
 4. Terminal should output that the files in both locations have been updated.
 
