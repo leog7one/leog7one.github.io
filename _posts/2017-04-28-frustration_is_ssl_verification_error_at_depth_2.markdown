@@ -41,8 +41,11 @@ ERROR: Certificate /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA exp
 Here is where it got interesting. I looked at multiple sources to try to fix my issues, here is just a few:
 
 [https://rvm.io/support/fixing-broken-ssl-certificates](https://rvm.io/support/fixing-broken-ssl-certificates)
+
 [https://stackoverflow.com/questions/11149623/where-can-i-find-ssl-certificates-on-mac-osx](https://stackoverflow.com/questions/11149623/where-can-i-find-ssl-certificates-on-mac-osx)
+
 [https://stackoverflow.com/questions/40029184/cannot-install-any-ruby-gems-on-mac-os-ssl-connect-error](https://stackoverflow.com/questions/40029184/cannot-install-any-ruby-gems-on-mac-os-ssl-connect-error)
+
 [http://help.rubygems.org/discussions/problems/22983-ssl-server-certificate-verify-failed#comment_41050585](http://help.rubygems.org/discussions/problems/22983-ssl-server-certificate-verify-failed#comment_41050585)
 
 I first ran:
