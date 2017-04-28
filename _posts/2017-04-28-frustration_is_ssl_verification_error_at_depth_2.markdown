@@ -113,4 +113,4 @@ So in a nutshell:
 
 ![](https://cdn-images-1.medium.com/max/800/1*sHXeNpkk41igS1-NjDlOtA.jpeg)
 
-5. Run your Gem Install and rejoice in victory!!
+Now run your Gem Install and rejoice in victory!!
