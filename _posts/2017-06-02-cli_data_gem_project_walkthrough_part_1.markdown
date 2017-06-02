@@ -14,11 +14,12 @@ Here is want I to create:
 1.  run ./bin/beer-me
 2.  "Top New Beers Month Year" come up
 3.  List of Beers Populates
-             ```
-              1.Beer Name 1
-              2.Beer Name 2
-              3.Beer Name 3
+
 ```
+1. Beer Name 1
+2. Beer Name 2
+```
+
 4.  Menu Asks "Enter beer number to display style or type 'list' to see the beers again or type 'exit':"
 5.  When you type in number it returns the style of the beer
 
