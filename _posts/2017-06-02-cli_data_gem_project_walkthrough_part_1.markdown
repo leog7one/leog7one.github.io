@@ -20,6 +20,8 @@ Here is want I to create:
 2. Beer Name 2
 ```
 
+
+
 4.  Menu Asks "Enter beer number to display style or type 'list' to see the beers again or type 'exit':"
 5.  When you type in number it returns the style of the beer
 
@@ -39,8 +41,10 @@ As I went through the elements, I noticed all the info was in a table. not only 
 
 When I attempted to iterate through these results two things came back:
 
+```
 Beer name
 Beer style
+```
 
 I then wanted them to be numbered which made them come back:
 
@@ -76,8 +80,10 @@ As I was typing it I was thinking , “I got you now!”.. then I ran it.. and c
 
 I was like "NOOOOO!!!" But then saw I was a step closer. I tried more and more different ways to try to get the list to appear as :
 
+```
 1.Beer name
 2.Beer name
+```
 
 This was happening because the other ‘a’ element was the beer style
 Then I went back to basic, very basic thinking. This is a moment you realize, sometimes you are over thinking an issue when it is something the basics can handle. So I thought, What is the output of the iteration?? An array.
@@ -103,8 +109,10 @@ Then I outputed  the number and beer name by returning the ‘href’ that inclu
 
 This then returned my beers correctly!
 
+```
 1.Beer name
 2.Beer name
+```
 
 This CLI Data GEM is hard, but I feel its the ability to scrape the website I am doing is what is really making this difficult.
 I am not done yet as I now have to do the second level and have it so where when you choose a beer number it returns the style for the beer.
