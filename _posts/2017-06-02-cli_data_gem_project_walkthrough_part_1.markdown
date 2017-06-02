@@ -1,22 +1,24 @@
 ---
 layout: post
 title:  CLI Data Gem Project Walkthrough Part 1
-date:   2017-06-02 18:53:56 +0000
+date:   2017-06-02 14:53:57 -0400
 ---
 
 
 It took a while to think of what I wanted to My CLI Data Gem Project to be on.
 
-So after some thought, I decide to craete my Data Gem based on what I like, trying new beers! Why not make it something fun?!
+So after some thought, I decide to create my Data Gem based on what I like, trying new beers! Why not make it something fun?!
 
 Here is want I to create:
 
 1.  run ./bin/beer-me
 2.  "Top New Beers Month Year" come up
 3.  List of Beers Populates
+             ```
               1.Beer Name 1
               2.Beer Name 2
               3.Beer Name 3
+```
 4.  Menu Asks "Enter beer number to display style or type 'list' to see the beers again or type 'exit':"
 5.  When you type in number it returns the style of the beer
 
