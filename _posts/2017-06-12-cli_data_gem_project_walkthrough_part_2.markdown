@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Data Gem Project Walkthrough Part 2"
-date:   2017-06-12 15:23:39 +0000
+date:   2017-06-12 11:23:40 -0400
 ---
 
 
@@ -14,7 +14,8 @@ Now I have the task of linking the number to the beer to bring back the info for
 
 Currently when we run the App, the Title and list comes up along with the menu
 
-￼![](https://ibb.co/jCzs3F)
+![](https://image.ibb.co/eZCC3F/Screen_Shot_2017_06_06_at_8_52_13_PM.png)
+
 
 Now when I type the number the links to the information come up:
 ￼![](https://ibb.co/e2Z3Av)
