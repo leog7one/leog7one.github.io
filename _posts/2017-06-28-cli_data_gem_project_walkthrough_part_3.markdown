@@ -48,7 +48,7 @@ beer_rows = doc.css("tr")
 
 This then produced the list as I wanted:
 
-![](https://ibb.co/k8KkNk)
+![](<a href="https://ibb.co/hdaEF5"><img src="https://preview.ibb.co/f50gv5/Screen_Shot_2017_06_28_at_3_43_11_PM.png" alt="Screen Shot 2017 06 28 at 3 43 11 PM" border="0" /></a>)
 
 
 I then figured with the rows now containg all the info I need I can now go in and get the rest of info for the 2nd part of my CLI APP
