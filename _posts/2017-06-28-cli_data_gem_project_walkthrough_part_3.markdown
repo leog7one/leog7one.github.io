@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CLI Data Gem Project Walkthrough Part 3"
-date:   2017-06-28 20:50:06 +0000
+date:   2017-06-28 16:50:06 -0400
 ---
 
 
