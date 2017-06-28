@@ -134,13 +134,12 @@ and now it worked perfectly! It now says "Please choose a valid number", if an i
 
 My CLI App is now complete and working and now I am finishing up the little tidbits here and there and will be submitting for review!
 
-Here is the link to the Github for the BeerMe CLI App! Check it out and let me know what you think!
 
-[](https://github.com/leog7one/beerme-cli-app)
+Click <a href="https://github.com/leog7one/beerme-cli-app">here</a> to go to the Github for the BeerMe Cli App.
 
-And Here is the Gem You can download from Rubygems.org!
+Click <a href="https://rubygems.org/gems/beer_me">here</a> to go to the Rubygems.org page for the BeerMe Cli Gem.
 
-[](https://rubygems.org/gems/beer_me)
+
 
 
 
