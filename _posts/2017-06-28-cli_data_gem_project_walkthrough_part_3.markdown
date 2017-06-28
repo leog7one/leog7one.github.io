@@ -81,13 +81,13 @@ def beer_info
 This seemed to work as I was getting the info to come up correctly.
 
 
-![](https://ibb.co/n2Rzhk)
+<a href="https://ibb.co/n2Rzhk"><img src="https://preview.ibb.co/jT7i8Q/Screen_Shot_2017_06_28_at_3_32_59_PM.png" alt="Screen Shot 2017 06 28 at 3 32 59 PM" border="0" /></a>
 
 
 Then I tested what would happen if I choose a number that wasnt listed, like 47.
 I then got this error:
 
-![](https://ibb.co/i9PVoQ)
+<a href="https://ibb.co/i9PVoQ"><img src="https://preview.ibb.co/h0yqoQ/Screen_Shot_2017_06_28_at_3_35_03_PM.png" alt="Screen Shot 2017 06 28 at 3 35 03 PM" border="0" /></a>
 
 
 Now I knew the reason this was happening was becuase there was no 47 in the list and the beer_info didnt have a row that went that high, so of course is there is no method error for 'css' as it does not even exist!
@@ -130,7 +130,7 @@ I change the code to
 
 and now it worked perfectly! It now says "Please choose a valid number", if an invalid one is chosen.
 
-![](https://ibb.co/hdaEF5)
+<a href="https://ibb.co/hdaEF5"><img src="https://preview.ibb.co/f50gv5/Screen_Shot_2017_06_28_at_3_43_11_PM.png" alt="Screen Shot 2017 06 28 at 3 43 11 PM" border="0" /></a>
 
 My CLI App is now complete and working and now I am finishing up the little tidbits here and there and will be submitting for review!
 
