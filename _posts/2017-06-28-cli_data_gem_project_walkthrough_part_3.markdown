@@ -138,5 +138,9 @@ Here is the link to the Github for the BeerMe CLI App! Check it out and let me k
 
 [](https://github.com/leog7one/beerme-cli-app)
 
+And Here is the Gem You can download from Rubygems.org!
+
+[](https://rubygems.org/gems/beer_me)
+
 
 
